@@ -2,9 +2,7 @@
 
 **Slime Burst** is a tile-based strategy game with the goal of dominating the board.
 
-## Game Information
-
-### Rules
+## Rules
 
 1. On initial placement, each player selects an empty tile to place a slime of their color.
 
@@ -16,7 +14,7 @@
 
 4. A player wins if only slimes of their color remain.
 
-### Types of Slimes
+## Types of Slimes
 
 | Slime Type   | Size Limit | Burst Effect                                                                                                                                                       |
 | :---:        | :---:      | :---                                                                                                                                                               |
