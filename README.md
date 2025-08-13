@@ -1,6 +1,6 @@
 # Slime Burst
 
-Tile-based strategy game with the goal of dominating the board.
+Strategy game with the goal of dominating the board.
 
 ## Rules
 
